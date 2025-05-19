@@ -1,2 +1,2 @@
 # cot-RHLF-agent
-wait
+wait for accept
